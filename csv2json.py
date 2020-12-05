@@ -1,5 +1,8 @@
+#import libraries
 import csv
 import json5
+
+#file paths
 csvfilepath = "data.csv"
 jsonfilepath = 'data.json'
 
